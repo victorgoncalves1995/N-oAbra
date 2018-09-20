@@ -2,9 +2,9 @@ print("oi, mundo!")
 print("oi, novamente!")
 
 import math
-a = int(input("informe o valor de a"))
-b = int(input("informe o valor de b"))
-c = int(input("informe o valor de c"))
+a = int(input("informe o valor de a: "))
+b = int(input("informe o valor de b: "))
+c = int(input("informe o valor de c: "))
 
 delta=b*b-4*a*c
 
